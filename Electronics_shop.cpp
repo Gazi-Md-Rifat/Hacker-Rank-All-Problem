@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-// Hacker Rank Question Link : 
+// Hacker Rank Question Link : https://www.hackerrank.com/challenges/electronics-shop/problem?isFullScreen=true
 
 int main (){
 
